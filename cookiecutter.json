@@ -1,0 +1,13 @@
+{
+    "course_name": "Projeto de Ciência de Dados V",
+    "group_id":"Iniciais de cada um do grupo",
+  "course_code": "ibmecPCDV20261",
+  "project_name": "Meu Projeto de ML",
+    "team_members": "Nome Sobrenome; Nome Sobrenome; ...",
+    "team_emails": "email1@exemplo.com; email2@exemplo.com; ...",
+  "repo_suffix": "nome1_nome2_...",
+  "repo_name": "{{ cookiecutter.course_code }}_{{ cookiecutter.repo_suffix }}",
+  "python_version": "3.12",
+  "_copy_without_render": ["*.ipynb"]
+}
+
